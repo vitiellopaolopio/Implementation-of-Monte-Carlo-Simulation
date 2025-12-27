@@ -31,7 +31,9 @@ This project implements a Monte Carlo simulation to evaluate the bias, variance,
 3. Knit to HTML or PDF to generate results and plots.
 4. Modify `theta`, `n_grid`, or `M` to explore different parameter configurations.
 
+```{r}
 # Example
 theta <- 1
 n_grid <- c(5, 10, 20, 50, 100)
 M <- 10000
+```

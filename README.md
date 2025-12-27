@@ -1,4 +1,4 @@
-# Implementation-of-Monte-Carlo-Simulation
+# Implementation of Monte Carlo Simulation
 This project implements a Monte Carlo simulation to evaluate the statistical properties—bias, variance, and mean squared error (MSE)—of the maximum estimator of the parameter 𝜃, for samples drawn from a uniform distribution 𝑈(0,𝜃). Monte Carlo estimates are compared with exact theoretical values, providing insight into estimator performance across different sample sizes and demonstrating the effectiveness of simulation-based inference.
 
 # Monte Carlo Simulation of Maximum Estimator from Uniform Distribution

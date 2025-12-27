@@ -22,7 +22,7 @@ This project implements a Monte Carlo simulation to evaluate the bias, variance,
 
 - R (>= 4.2)
 - R packages: `knitr`, `ggplot2` (optional for enhanced plotting)
-- Basic familiarity with R and R Markdown
+- R and R Markdown
 
 ## Usage
 
